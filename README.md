@@ -3,10 +3,6 @@
 This project presents an interactive Employee Data Dashboard developed using Power BI.
 The dashboard provides insights into employee distribution, salary analysis, department performance, and workforce trends to support HR decision-making.
 
-📷 Dashboard Preview
-
-(Upload your screenshot as dashboard.png in the repository)
-
 🎯 Business Objectives
 
 Analyze department-wise employee distribution
